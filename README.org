@@ -1,0 +1,2 @@
+clojure style reducers for common lisp. implemented via
+the generic-collection-interface package.
